@@ -10,7 +10,6 @@ choco install -y rufus
 choco install -y etcher
 choco install -y bitwarden
 choco install -y googledrive
-choco install -y malwarebytes
 choco install -y putty
 choco install -y microsoft-windows-terminal
 choco install -y powershell-core
